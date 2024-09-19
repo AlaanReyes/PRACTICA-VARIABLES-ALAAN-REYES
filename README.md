@@ -1,10 +1,10 @@
 # PRACTICA-VARIABLES-ALAAN-REYES
 MI PRACTICA DE VARIABLES
 
-# Este es un comentario
 print(" ") #ESPACIO PARA NOMBRE
 print (" Reyes Meza Alan Eduardo : MI PRACTICA DE VARIABLES-3W ") #NOMBRE Y GRUPO DEL PROGRAMADOR
 print("HOLA CBTIS 128") # muestra en pantalla hola mundo
+
 # variables.py
 
 # Pedir el nombre del usuario y almacenar el valor en la variable 'nombre'
